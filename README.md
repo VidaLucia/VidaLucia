@@ -6,9 +6,7 @@ Welcome to my GitHub! I'm a developer passionate about building creative, practi
 - Productivity and planning automation  
 
 ## What I'm Working On
-- Tools that parse course syllabi and auto-generate personalized study calendars using AI
-- Full-stack user management systems with admin/user dashboards
-- some small AI projects in the works
+- TBA
 
 ## Skills & Tools
 - **Languages:** C++, Python, Java, JavaScript  
