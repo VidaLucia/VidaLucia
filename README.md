@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a developer passionate about building creative, practical, and user-friendly software. I’m currently exploring projects in:
 
-- AI-powered tools (especially with LLMs like GPT-4)   
+- AI-powered tools 
 - Productivity and planning automation  
 
 ## What I'm Working On
