@@ -19,7 +19,8 @@ Welcome to my GitHub! I'm a developer passionate about building creative, practi
 ## Let's Connect
 If you’re working on something cool or want to collaborate, feel free to reach out!
 
-- ✉️ 29593526943855k@gmail.com
+- dukevin.4902@gmail.com
+- https://www.linkedin.com/in/kevinduvida/
 - 🌐 TBA
 
 
